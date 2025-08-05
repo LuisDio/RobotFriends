@@ -1,2 +1,2 @@
-// will be used to perform few checks
+// will be used to perform few double check
 // on going one
